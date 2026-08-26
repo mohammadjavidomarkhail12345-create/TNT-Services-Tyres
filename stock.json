@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "category": "15 INCH",
+    "size": "175/65 R15",
+    "qty": 100
+  },
+  {
+    "id": 2,
+    "category": "15 INCH",
+    "size": "185/60 R15",
+    "qty": 120
+  },
+  {
+    "id": 3,
+    "category": "15 INCH",
+    "size": "185/65 R15",
+    "qty": 180
+  },
+  {
+    "id": 4,
+    "category": "15 INCH",
+    "size": "195/60 R15",
+    "qty": 80
+  },
+  {
+    "id": 5,
+    "category": "15 INCH",
+    "size": "195/65 R15",
+    "qty": 150
+  },
+  {
+    "id": 6,
+    "category": "16 INCH",
+    "size": "195/50 R16",
+    "qty": 100
+  },
+  {
+    "id": 7,
+    "category": "16 INCH",
+    "size": "195/55 R16",
+    "qty": 100
+  },
+  {
+    "id": 8,
+    "category": "16 INCH",
+    "size": "195/60 R16",
+    "qty": 100
+  },
+  {
+    "id": 9,
+    "category": "16 INCH",
+    "size": "205/55 R16",
+    "qty": 300
+  },
+  {
+    "id": 10,
+    "category": "16 INCH",
+    "size": "205/60 R16",
+    "qty": 150
+  },
+  {
+    "id": 11,
+    "category": "16 INCH",
+    "size": "205/65 R16C",
+    "qty": 250
+  },
+  {
+    "id": 12,
+    "category": "16 INCH",
+    "size": "215/55 R16",
+    "qty": 100
+  },
+  {
+    "id": 13,
+    "category": "16 INCH",
+    "size": "215/60 R16",
+    "qty": 150
+  },
+  {
+    "id": 14,
+    "category": "16 INCH",
+    "size": "215/65 R16",
+    "qty": 120
+  },
+  {
+    "id": 15,
+    "category": "16 INCH",
+    "size": "225/55 R16",
+    "qty": 100
+  },
+  {
+    "id": 16,
+    "category": "16 INCH",
+    "size": "225/65 R16C",
+    "qty": 100
+  },
+  {
+    "id": 17,
+    "category": "17 INCH",
+    "size": "205/50 R17",
+    "qty": 100
+  },
+  {
+    "id": 18,
+    "category": "17 INCH",
+    "size": "205/55 R17",
+    "qty": 150
+  },
+  {
+    "id": 19,
+    "category": "17 INCH",
+    "size": "215/40 R17",
+    "qty": 80
+  },
+  {
+    "id": 20,
+    "category": "17 INCH",
+    "size": "215/45 R17",
+    "qty": 100
+  },
+  {
+    "id": 21,
+    "category": "17 INCH",
+    "size": "215/50 R17",
+    "qty": 100
+  },
+  {
+    "id": 22,
+    "category": "17 INCH",
+    "size": "215/55 R17",
+    "qty": 120
+  },
+  {
+    "id": 23,
+    "category": "17 INCH",
+    "size": "225/45 R17",
+    "qty": 300
+  },
+  {
+    "id": 24,
+    "category": "17 INCH",
+    "size": "225/50 R17",
+    "qty": 200
+  },
+  {
+    "id": 25,
+    "category": "17 INCH",
+    "size": "225/55 R17",
+    "qty": 150
+  },
+  {
+    "id": 26,
+    "category": "17 INCH",
+    "size": "225/60 R17",
+    "qty": 120
+  },
+  {
+    "id": 27,
+    "category": "17 INCH",
+    "size": "225/65 R17",
+    "qty": 100
+  },
+  {
+    "id": 28,
+    "category": "17 INCH",
+    "size": "235/55 R17",
+    "qty": 80
+  },
+  {
+    "id": 29,
+    "category": "18 INCH",
+    "size": "215/55 R18",
+    "qty": 100
+  },
+  {
+    "id": 30,
+    "category": "18 INCH",
+    "size": "225/40 R18",
+    "qty": 200
+  },
+  {
+    "id": 31,
+    "category": "18 INCH",
+    "size": "225/45 R18",
+    "qty": 200
+  },
+  {
+    "id": 32,
+    "category": "18 INCH",
+    "size": "225/50 R18",
+    "qty": 120
+  },
+  {
+    "id": 33,
+    "category": "18 INCH",
+    "size": "225/55 R18",
+    "qty": 100
+  },
+  {
+    "id": 34,
+    "category": "18 INCH",
+    "size": "235/40 R18",
+    "qty": 100
+  },
+  {
+    "id": 35,
+    "category": "18 INCH",
+    "size": "235/45 R18",
+    "qty": 100
+  },
+  {
+    "id": 36,
+    "category": "18 INCH",
+    "size": "235/50 R18",
+    "qty": 120
+  },
+  {
+    "id": 37,
+    "category": "18 INCH",
+    "size": "235/55 R18",
+    "qty": 100
+  },
+  {
+    "id": 38,
+    "category": "18 INCH",
+    "size": "245/35 R18",
+    "qty": 100
+  },
+  {
+    "id": 39,
+    "category": "18 INCH",
+    "size": "245/40 R18",
+    "qty": 100
+  },
+  {
+    "id": 40,
+    "category": "18 INCH",
+    "size": "245/45 R18",
+    "qty": 120
+  },
+  {
+    "id": 41,
+    "category": "18 INCH",
+    "size": "245/60 R18",
+    "qty": 60
+  },
+  {
+    "id": 42,
+    "category": "18 INCH",
+    "size": "255/50 R18",
+    "qty": 60
+  },
+  {
+    "id": 43,
+    "category": "18 INCH",
+    "size": "265/60 R18",
+    "qty": 50
+  },
+  {
+    "id": 44,
+    "category": "19 INCH",
+    "size": "215/55 R19",
+    "qty": 50
+  },
+  {
+    "id": 45,
+    "category": "19 INCH",
+    "size": "225/40 R19",
+    "qty": 50
+  },
+  {
+    "id": 46,
+    "category": "19 INCH",
+    "size": "225/45 R19",
+    "qty": 70
+  },
+  {
+    "id": 47,
+    "category": "19 INCH",
+    "size": "225/50 R19",
+    "qty": 60
+  },
+  {
+    "id": 48,
+    "category": "19 INCH",
+    "size": "235/35 R19",
+    "qty": 50
+  },
+  {
+    "id": 49,
+    "category": "19 INCH",
+    "size": "235/40 R19",
+    "qty": 50
+  },
+  {
+    "id": 50,
+    "category": "19 INCH",
+    "size": "235/45 R19",
+    "qty": 60
+  },
+  {
+    "id": 51,
+    "category": "19 INCH",
+    "size": "245/40 R19",
+    "qty": 70
+  },
+  {
+    "id": 52,
+    "category": "19 INCH",
+    "size": "255/30 R19",
+    "qty": 40
+  },
+  {
+    "id": 53,
+    "category": "19 INCH",
+    "size": "255/35 R19",
+    "qty": 50
+  },
+  {
+    "id": 54,
+    "category": "19 INCH",
+    "size": "255/40 R19",
+    "qty": 50
+  },
+  {
+    "id": 55,
+    "category": "19 INCH",
+    "size": "255/45 R19",
+    "qty": 50
+  },
+  {
+    "id": 56,
+    "category": "19 INCH",
+    "size": "255/50 R19",
+    "qty": 50
+  },
+  {
+    "id": 57,
+    "category": "19 INCH",
+    "size": "255/55 R19",
+    "qty": 40
+  },
+  {
+    "id": 58,
+    "category": "19 INCH",
+    "size": "255/60 R19",
+    "qty": 30
+  },
+  {
+    "id": 59,
+    "category": "19 INCH",
+    "size": "255/65 R19",
+    "qty": 30
+  }
+]
