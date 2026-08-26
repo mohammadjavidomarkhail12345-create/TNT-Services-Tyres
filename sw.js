@@ -1,1 +1,1 @@
-const C='tnt-live-v1',A=['/','/index.html','/manifest.webmanifest'];self.addEventListener('install',e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));self.addEventListener('fetch',e=>{if(e.request.url.includes('/api/'))return;e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request)))})
+const C='tnt-v3',A=['/','/index.html','/manifest.webmanifest'];self.addEventListener('install',e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));
